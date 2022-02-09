@@ -3,7 +3,7 @@
 - 📚 Computer Science Bachelor Degree
 - 🛠 Working with software development since 2009
 - 📲 Currently working as a Mobile Engineer @ [PiniOn](https://pinion.app)
-- 🚀 Owner @ Mad Labs Dev
+- 💎 CEO @ Mad Labs Dev 
 - 🪴 Plant enthusiast
 - 🧪 Curious scientist
 
