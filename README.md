@@ -1,4 +1,5 @@
-### Hi! I'm Caio Perdona 👋
+# Hi! I'm Caio Perdona 🤘🏼
+
 
 - 📚 Computer Science Bachelor Degree
 - 🛠 Working with software development since 2009
