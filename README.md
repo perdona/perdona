@@ -14,11 +14,12 @@
 - owner@mad-labs.dev
 - https://t.me/cperdona
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perdona&layout=compact&count_private=true&theme=buefy)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=perdona&count_private=true&show_icons=true&theme=buefy)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=perdona&hide_border=true&theme=buefy)
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perdona&layout=compact&count_private=true&theme=buefy)
 
 <!--
 **perdona/perdona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
