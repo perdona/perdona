@@ -14,7 +14,7 @@
 - owner@mad-labs.dev
 - https://t.me/cperdona
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perdona&layout=compact&count_private=true&theme=synthwave)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perdona&layout=compact&count_private=true&theme=buefy)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=perdona&count_private=true&show_icons=true&theme=buefy)
 
