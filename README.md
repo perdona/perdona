@@ -1,17 +1,17 @@
 # Hi! I'm Caio Perdona 🤘🏼
 
-  📚 Computer Science Bachelor Degree
-  🛠 Working with software development since 2009
-  📲 Currently working as Mobile Engineer @ [PiniOn](https://pinion.app)
-  💎 CEO @ Mad Labs Dev 
-  🪴 Nature enthusiast
-  🧪 Curious scientist
+ - 📚 Computer Science Bachelor Degree
+ - 🛠 Working with software development since 2009
+ - 📲 Currently working as Mobile Engineer @ [PiniOn](https://pinion.app)
+ - 💎 CEO @ Mad Labs Dev 
+ - 🪴 Nature enthusiast
+ - 🧪 Curious scientist
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=perdona&hide_border=true&theme=buefy)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=perdona&hide_border=true&theme=bear)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=perdona&count_private=true&show_icons=true&theme=buefy)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=perdona&count_private=true&show_icons=true&theme=bear)
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perdona&layout=compact&count_private=true&theme=buefy)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perdona&layout=compact&count_private=true&theme=tokyonight)
 
 
 📨 Reach me at:
