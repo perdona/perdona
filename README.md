@@ -1,9 +1,8 @@
-# Hi! I'm Caio Perdona 🤘🏼
+# Hi! I'm Caio Perdona :fire:
 
  - 📚 Computer Science Bachelor Degree
  - 🛠 Working with software development since 2009
  - 📲 Currently working as Mobile Engineer @ [PiniOn](https://pinion.app)
- - 💎 CEO @ Mad Labs Dev 
  - 🪴 Nature enthusiast
  - 🧪 Curious scientist
 
