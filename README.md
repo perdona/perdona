@@ -2,7 +2,7 @@
 
  - 📚 Computer Science Bachelor Degree
  - 🛠 Working with software development since 2009
- - 📲 Currently working as Mobile Engineer @ [PiniOn](https://pinion.app)
+ - 📲 Currently working as Mobile Tech Lead @ [PiniOn](https://pinion.app)
  - 🪴 Nature enthusiast
  - 🧪 Curious scientist
 
