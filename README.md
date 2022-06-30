@@ -6,11 +6,11 @@
  - 🪴 Nature enthusiast
  - 🧪 Curious scientist
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=perdona&hide_border=true&theme=bear)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=perdona&hide_border=true&theme=vision-friendly-dark)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=perdona&count_private=true&show_icons=true&theme=bear)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=perdona&count_private=true&show_icons=true&theme=midnight-purple)
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perdona&layout=compact&count_private=true&theme=tokyonight)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perdona&layout=compact&count_private=true&theme=midnight-purple)
 
 
 📨 Reach me at:
