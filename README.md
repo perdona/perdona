@@ -24,7 +24,7 @@ const perdona = {
     misc: [bash, unix, devops, ansible],
     architectures: ["MVVM", "microservices", "event-driven"]
   },
-  currentlyWorking: "PiniOn Native Android App 5.0, PiniOn proprietary API with Python"
+  currentlyWorking: ["PiniOn Native Android App 5.0 with Jetpack Compose", "PiniOn proprietary API with Python"]
 }
 ```
 <p align="center">
