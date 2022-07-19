@@ -1,4 +1,4 @@
-# Hi! I'm Caio Perdona 👋
+# Hi! I'm Caio Perdona 🔥
 
 <p>
 <div align="center">
