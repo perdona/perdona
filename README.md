@@ -18,8 +18,8 @@ const perdona = {
   name: "Caio Perdona",
   title: "Mobile Tech Lead @ PiniOn",
   education: "Computer Science Bachelor Degree 2012",
-  interests: ["politics", "tech", "music", "mathematics", 
-              "bothanics", "nature", "philosophy", "art", "cannabis"],
+  interests: ["nature", "tech", "music", "mathematics", "cannabis", 
+              "bothanics", "politics", "philosophy", "art"],
   stack: {
     languages: [Javascript, Kotlin, Python, Typescript, Swift, HTML, CSS],
     technologies: [Android, Jetpack Compose, Node, Nginx, Git, React Native, 
