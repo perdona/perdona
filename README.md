@@ -49,9 +49,7 @@ const perdona = {
 -->
 
 📨 Reach me at:
-- perdona@gmail.com
 - owner@mad-labs.dev
-- https://t.me/madlabsdev
 
 
 <!--
