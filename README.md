@@ -1,4 +1,4 @@
-# Hi! I'm Caio Perdona 🔥
+# Hi! I'm Caio Perdona. 
 
 <p>
 <div align="center">
@@ -49,8 +49,7 @@ const perdona = {
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perdona&hide_border=true&layout=compact&count_private=true&theme=midnight-purple)
 -->
 
-📨 Reach me at:
-- owner@madlabs.ltd
+## Reach me at: https://madlabs.ltd
 
 
 <!--
