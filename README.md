@@ -18,8 +18,8 @@ const perdona = {
   name: "Caio Perdona",
   title: "Mobile Tech Lead @ PiniOn",
   education: "Computer Science Bachelor Degree 2012",
-  interests: ["nature", "tech", "music", "mathematics", "cannabis", 
-              "bothanics", "politics", "philosophy", "art"],
+  interests: ["nature", "tech", "music", "mathematics", 
+              "bothanics", "philosophy", "art"],
   stack: {
     languages: [Javascript, Kotlin, Python, Typescript, Swift, HTML, CSS],
     technologies: [Android, Jetpack Compose, Node, Nginx, Git, React Native, 
@@ -31,6 +31,7 @@ const perdona = {
   currentlyWorking: ["PiniOn Android App 5.x with Jetpack Compose", "PiniOn API with Python"]
 }
 ```
+<!--
 <p align="center">
 <a href="https://github.com/perdona?tab=stars"><img src="https://github-readme-stats.vercel.app/api/?username=perdona&hide_border=true&count_private=true&show_icons=true&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@perdona's github-readme-streak-stats"/></a>
 <a href="https://github.com/perdona?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=perdona&hide_border=true&theme=vision-friendly-dark"  width="48%" alt="@perdona's github-readme-stats"/></a>
@@ -39,7 +40,7 @@ const perdona = {
 <p align="center">
 <a href="https://github.com/perdona?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=perdona&theme=tokyonight&no-frame=true&row=1&margin-h=20" height="120"  width="96%" alt="@perdona's trophy stats"/></a>
 </p>
-
+-->
 <!--
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=perdona&hide_border=true&theme=vision-friendly-dark)
 
@@ -49,7 +50,7 @@ const perdona = {
 -->
 
 📨 Reach me at:
-- owner@mad-labs.dev
+- owner@madlabs.ltd
 
 
 <!--
